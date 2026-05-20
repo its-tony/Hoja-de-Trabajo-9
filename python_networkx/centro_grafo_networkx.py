@@ -2,7 +2,7 @@
 Universidad del Valle de Guatemala
 CC2003 Algoritmos y Estructuras de Datos
 Hoja de Trabajo 10 Grafos dirigidos y algoritmo de Floyd
-Autor: Entrega individual
+Autor: Antony Portillo, Alejandro Rustrian
 Descripcion: Version opcional en Python usando NetworkX
 """
 
